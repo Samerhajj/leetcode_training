@@ -20,5 +20,5 @@ The RED algorithm can be fine-tuned by adjusting the minimum and maximum thresho
 In summary, the Random Early Detection (RED) algorithm is a congestion avoidance technique that helps to prevent network overload by randomly dropping packets when the network becomes congested. It uses a set of parameters, such as the minimum and maximum thresholds, to determine when and how many packets to drop in order to encourage sending devices to reduce their transmission rate and prevent congestion.
 
 
-![RED Algorithm](../../../Downloads/Capture.PNG)/
-![MAX_P](../../../Downloads/Capture2.PNG)
+![image](https://user-images.githubusercontent.com/81771181/209520028-6f84cef0-7175-43d5-bdeb-19660b96c1a3.png)/
+![image](https://user-images.githubusercontent.com/81771181/209520066-e63dbfb7-20b6-4e80-a45d-afb1acba6984.png)
