@@ -1,5 +1,5 @@
 
-public class Main {
+public class Decode {
     public static String decodeString(String s) {
         StringBuilder stack = new StringBuilder();
         for(char c : s.toCharArray()) {
